@@ -1,3 +1,3 @@
-# Power-BI | @Alura 
+# Power-BI 
 
-Dashboards developed during the Power BI course from Alura
+Dashboards developed in Microsoft Power BI
