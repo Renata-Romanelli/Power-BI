@@ -6,6 +6,7 @@ Worked concepts:
 - Business Intelligence 
 - Data processing within Power BI
 - Dynamic measurements and calculations
+- Data visualization types in Power BI
 
 ## Alura Pets
 
@@ -27,3 +28,23 @@ Dashboard was created in desktop version and also with mobile layout:
 Dashboard preview:
 
 <img src="alura_pets.png" data-canonical-src="alura_pets.png" width="700" height="400" />
+
+
+## Clube do Livro
+
+Create a dashboard from CLUbe do Livro metrics
+
+Dashboard was created in desktop version:
+
+<ul>
+  <a href="Clube do livro.pbix">Clube do Livro </a>
+</ul>
+
+Dashboard preview:
+
+<img src="Clube_do_livro_dash1.png" data-canonical-src="Clube_do_livro_dash1.png" width="700" height="400" />
+
+<img src="Clube_do_livro_dash2.png" data-canonical-src="Clube_do_livro_dash2.png" width="700" height="400" />
+
+<img src="Clube_do_livro_dash3.png" data-canonical-src="Clube_do_livro_dash3.png" width="700" height="400" />
+
