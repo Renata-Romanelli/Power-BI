@@ -7,8 +7,8 @@ Worked concepts:
 - Data processing within Power BI
 - Dynamic measurements and calculations
 - Data visualization types in Power BI
-- DAX language
-- M language
+- DAX and M languages
+- Web Scraping
 
 ## Alura Pets
 
@@ -34,7 +34,7 @@ Dashboard preview:
 
 ## Clube do Livro
 
-Create a dashboard from CLUbe do Livro metrics
+Create a dashboard from Clube do Livro metrics
 
 Dashboard was created in desktop version:
 
@@ -49,4 +49,19 @@ Dashboard preview:
 <img src="Clube_do_livro_dash2.png" data-canonical-src="Clube_do_livro_dash2.png" width="700" height="400" />
 
 <img src="Clube_do_livro_dash3.png" data-canonical-src="Clube_do_livro_dash3.png" width="700" height="400" />
+
+## Olist E-commerce
+
+Create a dashboard from Olist e-commerce metrics and Web Scraping
+
+Dashboard was created in desktop version:
+
+<ul>
+  <a href="Dashboard+Olist.pbix">Olist E-commerce </a>
+</ul>
+
+Dashboard preview:
+
+<img src="Olist_dash.png" data-canonical-src="Olist_dash.png" width="700" height="400" />
+
 
