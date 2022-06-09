@@ -7,6 +7,8 @@ Worked concepts:
 - Data processing within Power BI
 - Dynamic measurements and calculations
 - Data visualization types in Power BI
+- DAX language
+- M language
 
 ## Alura Pets
 
