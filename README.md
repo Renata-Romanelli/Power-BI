@@ -24,6 +24,6 @@ Dashboard was created in desktop version and also with mobile layout:
   <a href="Alura Pets.pbix">Alura Pets</a>
 </ul>
 
-Dashboard preview:
+### Dashboard preview:
 
 ![Alura Pets](alura_pets.png)
